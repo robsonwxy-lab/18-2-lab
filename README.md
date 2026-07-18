@@ -9,7 +9,7 @@ Marca que une *produção musical* e *desenvolvimento de aplicativos*.
 
 ### O que temos hoje:
 - Apps publicados no Google Play
-- Músicas distribuídas via DistroKid
+- Músicas distribuídas via DistroKid e soundcloud
 - Domínio: rb182tecnologia.com.br
 - Stack: Flutter, Firebase, Node.js, GitHub
 - TB com IA assistida
@@ -22,3 +22,5 @@ Marca que une *produção musical* e *desenvolvimento de aplicativos*.
 
 *Site oficial*: [rb182tecnologia.com.br](https://rb182tecnologia.com.br)  
 *GitHub*: [github.com/robsonwxy-lab/18-2-lab](https://github.com/robsonwxy-lab/18-2-lab)
+ *soundcloud*: [https://soundcloud.com/robson-dos-santos-240313477/
+18-2-djst-eletronica1)
