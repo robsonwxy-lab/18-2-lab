@@ -24,3 +24,4 @@ Marca que une *produção musical* e *desenvolvimento de aplicativos*.
 *GitHub*: [github.com/robsonwxy-lab/18-2-lab](https://github.com/robsonwxy-lab/18-2-lab)
  *soundcloud*: [https://soundcloud.com/robson-dos-santos-240313477/
 18-2-djst-eletronica1)
+*distrokid*:  [https://distrokid.com/hyperfollow/182djst/afro-djst-balanar) 
