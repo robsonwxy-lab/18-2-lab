@@ -12,11 +12,11 @@ Marca que une *produção musical* e *desenvolvimento de aplicativos*.
 - Músicas distribuídas via DistroKid
 - Domínio: rb182tecnologia.com.br
 - Stack: Flutter, Firebase, Node.js, GitHub
+- TB com IA assistida
 
 ### Próximos Projetos
-- *Pulse 18.2* — App + Site de criação musical com IA assistida
+- *Pulse 18.2* — App + Site de criação musical 
 - Site oficial da marca
-- Ferramentas para DJs e produtores
 
 ---
 
